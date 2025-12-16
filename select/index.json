@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "USER UNKNOWN",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-16T01:10:42.904836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "User Unknown",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/01_User_Unknown_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "USER UNKNOWN",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_USER_UNKNOWN_BaseBallBear.txt"
+    }
+  ]
+}
